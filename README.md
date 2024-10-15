@@ -1,5 +1,5 @@
 # USC_EE-599_Robotics
-All of my robotics assignments will be posted here
+All of my robotics assignments will be posted here.
 
 ## ✨This project was voted the second best in the entire cohort✨
 
