@@ -1,8 +1,8 @@
 # USC_EE-599_Robotics
 All of my robotics assignments will be posted here.
 
-# Quadrupedal Robot with Bounding Gait for Navigating Deformable Terrains
 ## 🥈This project was voted the second best in the entire cohort🥈
+# Quadrupedal Robot with Bounding Gait for Navigating Deformable Terrains
 
 https://github.com/SudarshanaSRao/USC_EE-599_Robotics/assets/87690830/98be3ce9-ed3d-4903-8dd4-a9d80f0bec35
 
